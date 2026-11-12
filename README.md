@@ -1,4 +1,3 @@
-<img width="1230" height="483" alt="image" src="https://github.com/user-attachments/assets/f11b44e2-e684-41ee-9960-ea61ada8002e" # Power-BI-3rd-assignment-
 Sales Dashboard in Power BI
 ## Data Cleaning ## 
 
